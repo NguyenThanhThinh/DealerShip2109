@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace DealerShip2109.Services
 {
-    public class CarService
+    public class CarService:ICarService
     {
     }
 }
